@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity in my Github Pages](), which catalogs the microbes that colonize human navels.
+In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity in my Github Pages](https://lintubaby5.github.io/belly-button-challenge/), which catalogs the microbes that colonize human navels.
 
 ### Completed the following steps:
 
@@ -8,7 +8,7 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
 
 * Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-[Barchart]()
+![Barchart](https://github.com/lintubaby5/belly-button-challenge/blob/main/Images/Barchart.png)
 
 
 * Use sample_values as the values for the bar chart.
@@ -29,7 +29,7 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
 
 * Use otu_labels for the text values.
 
-[Bubblechart]()
+![Bubblechart](https://github.com/lintubaby5/belly-button-challenge/blob/main/Images/BubbleGraph.png)
 
 
 ### Displayed the sample metadata, i.e., an individual's demographic information.
@@ -38,14 +38,14 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
 ### Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
 
-[MetadataJson]()
+![MetadataJson](https://github.com/lintubaby5/belly-button-challenge/blob/main/Images/Metadata_json.png)
 
 
 
 ### Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
 
-[Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/lintubaby5/belly-button-challenge/blob/main/Images/Dashboard_screenshot.png)
 
 
 
@@ -60,4 +60,4 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
 * Update the chart whenever a new sample is selected.
 
 
-[Guage Chart]()
+![Guage Chart](https://github.com/lintubaby5/belly-button-challenge/blob/main/Images/GuageChart.png)
